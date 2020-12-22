@@ -1,0 +1,28 @@
+{
+  "eslint.validate": ["typescript"],
+  "editor.codeActionsOnSave": {
+    // "source.fixAll.eslint": true
+  },
+  "cSpell.words": [
+    "DATEDIFF",
+    "Otps",
+    "Razorpay",
+    "YYDDMM",
+    "delievery",
+    "fileupload",
+    "getdate",
+    "originalname",
+    "pincode",
+    "pincodes",
+    "recordset",
+    "uploader",
+    "useage",
+    "uuidv",
+    "varchar"
+  ],
+  "search.exclude": {
+    "**/.git": true,
+    "**/node_modules": true,
+    "**/build": true
+},
+}
